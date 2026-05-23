@@ -1,0 +1,24 @@
+.time-badge {
+  background-color: #f5f5f5;
+  padding: 0.25em 0.5em;
+  border-radius: 0.5em;
+}
+
+.time-badge::before {
+  // See https://docs.fontawesome.com/web/add-icons/pseudo-elements
+  display: inline-block;
+  text-rendering: auto;
+  -webkit-font-smoothing: antialiased;
+
+  font: var(--fa-font-regular);
+  content: '\f34e';
+  margin-right: 0.5em;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  .time-badge {
+    font-weight: normal;
+    font-size: initial;
+    float: right;
+  }
+}
