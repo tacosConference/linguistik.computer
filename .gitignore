@@ -7,3 +7,6 @@ Gemfile.lock
 # 2026 is just the `build` folder renamed you get when compiling https://github.com/tacosConference/35.tacosConference
 # If you clone that repo, you can run
 /2026/
+
+# .htaccess contains "secrets", in the sense that it has some redirect URIs which are protected only by the secret in the URI.
+/.htaccess
