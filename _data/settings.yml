@@ -1,0 +1,29 @@
+menu:
+- {name: 'Tagung', folder: 'pages', file: 'about.html'}
+- {name: 'Archiv', folder: 'pages', file: 'archive.html'}
+#- {name: 'Teilnehmen', folder: 'pages', file: 'partake.html'}
+- {name: 'Ausrichten', folder: 'pages', file: 'host.html'}
+- {name: 'Schwestern', folder: 'pages', file: 'sisters.html'}
+- {name: 'Kontakt', folder: 'pages', file: 'contact.html'}
+
+# Available social icons are powered by Font Awesome, so you can use any icon that they offer
+social:
+- {label: 'GitHub', icon: 'fa-brands fa-github', link: 'https://linguistik.computer/git'}
+- {label: 'Instagram', icon: 'fa-brands fa-instagram', link: 'https://linguistik.computer/instagram'}
+- {label: 'LinkedIn', icon: 'fa-brands fa-linkedin', link: 'https://www.linkedin.com/company/tacosconference/'}
+- {label: 'E-Mail', icon: 'fa-solid fa-envelope', link: 'mailto:tacos@cl.uni-heidelberg.de'}
+- {label: 'RSS-Feed', icon: 'fa-solid fa-rss-square', link: '/rss-feed.xml'}
+# - {icon: 'twitter', link: 'https://twitter.com/StuTS_official'}
+# - {icon: 'facebook', link: 'https://www.facebook.com/jungesprachwissenschaft'}
+# - {icon: 'instagram', link: 'https://www.instagram.com/jungesprachwissenschaft/'}
+
+# Customize site text
+pagination:
+  next_page: 'Neuer »'
+  previous_page: '« Älter'
+
+sharing_button_prompt: 'Feel free to share!'
+
+related_posts: 'Verwandte Artikel'
+
+post_date_prefix: ''
