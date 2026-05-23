@@ -1,0 +1,24 @@
+---
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<channel>
+		<title>{{ site.title | xml_escape }}</title>
+		<description>{% if site.description %}{{ site.description | xml_escape }}{% endif %}</description>
+		<link>{{ site.github.url }}</link>
+		<atom:link href="{{ site.github.url }}/{{ page.path }}" rel="self" type="application/rss+xml" />
+		{% for conference in site.data.conferences %}
+			<item>
+				<title>{{ conference.edition | xml_escape }}. {{ conference.name | xml_escape }} in {{ conference.location | xml_escape }}</title>
+				{% if conference.url %}
+					<link>{{ conference.url }}</link>
+				{% endif %}
+				<guid>{{ conference.name | slugify }}</guid>
+				{% comment %}
+				If we had a way to get the conference date in a machine-readable way (currently, it is only stored human-readable), we could add a publication date (probably the date of the conference)
+				<pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
+				{% endcomment %}
+			</item>
+		{% endfor %}
+	</channel>
+</rss>
