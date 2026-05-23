@@ -1,0 +1,20 @@
+---
+layout: default
+title: Home
+---
+
+{% for conference in site.data.conferences limit:6 %}
+
+<article>
+  <a {% if conference.url %}href="{{ conference.url }}"{% endif %}>
+    <div class="featured-posts" {% if conference.image %}style="background-image:url(/assets/img/{{ conference.image }})"{% endif %}>
+      <h2><span>{{ conference.name }} in {{ conference.location }} ({{ conference.date }})</span></h2>
+    </div>
+  </a>
+</article>
+
+{% endfor %}
+
+<p style="text-align: center; font-style: italic;">
+    Eine Liste aller Konferenzen findet ihr im <a href="./pages/archive.html">Archiv</a>.
+</p>
