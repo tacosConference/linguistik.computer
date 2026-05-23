@@ -1,0 +1,34 @@
+# Site Build Settings
+
+# jekyll-paginate configuration
+paginate:            50
+
+# Build settings
+markdown:            kramdown
+highlighter:         rouge
+permalink:           none
+plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
+
+sass:
+  sass_dir: assets/css
+  style: :nested
+
+# Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
+title:		           "TaCoS"
+description:	       "Tagung der Computerlinguistik-Studierenden"
+author:              "TaCoS Heidelberg Team"
+
+# RSS 2.0 can be used instead of Atom by uncommenting following two lines
+#feed:
+#  path: rss-feed.xml
+
+# This is relevant for the 2026/ site, which contains a compiled SvelteKit website, which we don't want to touch at all with Jekyll.
+# Sadly, the site contains a few paths starting with underscore, which we explicitly need to include.
+include:
+  - _app
+  - __data.json
+  - _YR1mcsk.js
+  - _lhzyQju.js
+  - _uRpvfOz.js
+  - _hW98Ml7.js
+  - .htaccess
