@@ -1,0 +1,9 @@
+_site
+Gemfile.lock
+.sass-cache
+.jekyll-metadata
+.DS_Store
+
+# 2026 is just the `build` folder renamed you get when compiling https://github.com/tacosConference/35.tacosConference
+# If you clone that repo, you can run
+/2026/
