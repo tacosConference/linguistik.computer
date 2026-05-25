@@ -288,8 +288,13 @@ Beliebt sind:
 - Einkaufen (Snacks, Getränke, ...)
 - Räume mal auf Sicht kontrollieren (die Schlüssel habt ihr hoffentlich schon vorher abgeholt)
 
-## Folien einsammeln <span class="time-badge">Direkt danach</span>
+## Durchführen <span class="time-badge">Währenddessen</span>
+
+### Folien einsammeln 
 
 Generell finden es viele Teilnehmende gut, die Slides aus den Talks am Ende zu bekommen. Dazu solltet ihr *am besten schon während der Konferenz* euch einen Kanal überlegen, über den ihr die Folien verteilt, und dann spätestens direkt nach der Konferenz die Speaker darum bitten, euch die Folien zur Verfügung zu stellen.
 
 Sobald alle Folien da sind, freuen sich die Teilnehmenden sicher noch mal über eine Mail.
+
+### Abschließen
+
