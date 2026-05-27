@@ -288,6 +288,32 @@ Beliebt sind:
 - Einkaufen (Snacks, Getränke, ...)
 - Räume mal auf Sicht kontrollieren (die Schlüssel habt ihr hoffentlich schon vorher abgeholt)
 
+### Getränke bestellen
+
+Zum Beispiel bei Flaschenpost. 2026 hat Heidelberg mit der folgenden Bestelliste gute Erfahrungen gemacht:
+
+* 2 Kästen, je 24× 0,33L (Glas) Rothaus Pils Tannenzäpfle
+* 2 Kästen, je 20× 0,5L (Glas) Paulaner Spezi
+* 2 Kästen, je 20× 0,5L (Glas) Paulaner Spezi Zero
+* 2 Kästen, je 20× 0,5L (Glas) Club-Mate Original
+* 2 Kästen, je 20× 0,5L (Glas) Chiemseer Hell
+* 2 Kästen, je 24× 0,33L (Glas) Proviant Bio Orangenlimo
+* 2 Kästen, je 24× 0,33L (Glas) fritz-kola
+* 1 Kasten, je 24× 0,33L (Glas) fritz-kola ohne zucker
+* 1 Kasten, je 24× 0,33L (Glas) Proviant Bio Rhabarberlimo
+* 1 Kasten, je 24× 0,33L (Glas) Fanta Exotic
+* 1 Kasten, je 20× 0,5L (Glas) Franziskaner Hefe-Weissbier Naturtrüb
+* 1 Kasten, je 20× 0,5L (Glas) Augustiner Lagerbier Hell
+* 1 Kasten, je 20× 0,5L (Glas) Oettinger Eistee Zitrone
+* 1 Kasten, je 6× 1L (Glas) Mixkiste De Buur Mix - klarer Apfelsaft, Multivitaminnektar, Orangensaft
+* 4× 0,25L (Dose) Red Bull Energy Drink Green Edition
+* 4× 0,5L (Dose) Monster Energy Ultra White
+* 4× 0,5L (Dose) Monster Energy Mango Loco
+* 4× 0,25L (Dose) Red Bull Energy Drink Sea Blue Edition
+* 1× 0,75L (Glas) Fassreiter Riesling feinherb halbtrocken
+
+Kosten (inklusive Pfand) knapp 600 €.
+
 ## Durchführen <span class="time-badge">Währenddessen</span>
 
 ### Folien einsammeln 
