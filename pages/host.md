@@ -88,13 +88,23 @@ Schreibt an <vorstand@junge-sprachwissenschaft.de> und gebt an, dass ihr gerne Z
 
 Schreibt an <anna.stein@hhu.de> und bittet um Zugriff auf [github.com/tacosConference](https://github.com/tacosConference). Damit kontrolliert ihr dann automatisch auch [tacosconference.github.io](https://tacosconference.github.io/).
 
+### Organisation
+
+Leider scheint die Planung am Ende tendenziell immer auf „alle Informationen liegen irgendwo in einem Word-Dokument oder einem Chatverlauf“ hinauszulaufen, egal wie viel Mühe man sich im Vorhinein gibt, sowas zu vermeiden. Empfehlenswerte Tools sind [CryptPad](https://cryptpad.fr), wo Dokumente unkompliziert geteilt und gemeinsam bearbeitet werden können. Nur CryptPad Sheets (die Tabellenkalkulation) hat immer wieder Kinderkrankheiten, vielleicht sucht ihr da also eine Alternative.
+
+Außerdem empfehlen wir, eine Signal- oder WhatsApp-Gruppe für die Organisatoren einzurichten, bzw. mehrere für Finanz-, Design-, Merchteam usw. 
+
+Von demokratischen Entscheidungen rät Heidelberg eher ab (vor allem weil es ewig dauert, bis alle antworten), aber Umfragen als kurzes Stimmungsbild sind sehr hilfreich. 
+
 ## Tagungsort <span class="time-badge">September</span>
 
 Als Tagungsort bieten sich Räume der Uni an. Mit Glück könnt ihr entweder direkt, oder über ein Institut oder eine Fakultät kostenlos Räume reservieren. Denkt daran, früh anzufragen, da Unis oft sehr früh mit der Planung für das kommende Semester beginnen (fragt da gegebenenfalls mal beim Sekretariat an, bis wann die Rückmeldung brauchen).
 
-Heidelberg hatte 2026 in der Planung initial mit 60 Teilnehmern gerechnet, es wurden dann aber doch eher 120 Anmeldungen. Am ersten Tag waren dann so ca. 85 Leute da. Also die 60-Raum-Planung war vielleicht okay.
+Bochum hatte ca. 50-60 Teilnehmer, daher hat Heidelberg initial mit einer ähnlichen Zahl gerechnet. Am Ende wurden es doch 115 Anmeldungen (wobei wir irgendwann begonnen haben, sehr späte Anmeldungen abzulehnen). Unserer Erfahrung nach sind dann doch sehr viel weniger Leute gleichzeitig anwesend - am ersten Tag waren dann so ca. 85 Leute da. 
 
-Die folgende Raumkonfiguration könnte man für eine Konferenz mit 60 Teilnehmern einplanen (am besten natürlich alles in einem Gebäude, um Laufwege zu minimieren und zu verhindern, dass jemand verloren geht):
+Zur Not können Räume also sehr viel kleiner geplant werden - wir haben erfolgreich alle Teilnehmer in einem Raum mit offiziell 49 Plätzen untergebracht, indem wir noch großzügig Stühle aus den Nachbarräumen dazugestellt haben. 
+
+Die folgende (großzügige) Raumkonfiguration könnte man für eine Konferenz mit 60 Teilnehmern einplanen (am besten natürlich alles in einem Gebäude und auf einem Stockwerk, um Laufwege zu minimieren und zu verhindern, dass jemand verloren geht):
 
 - 2 Seminarräume, Kapazität: 40–45 Personen
   * Auf die Weise kann man parallele Tracks machen, und hat etwas Puffer, falls mal doch ein Vortrag ausfallen sollte oder ein Vortrag wesentlich beliebter ist etc.
@@ -102,7 +112,7 @@ Die folgende Raumkonfiguration könnte man für eine Konferenz mit 60 Teilnehmer
   * Für Eröffnung, Abschluss, Keynotes etc.
 - 1 Pausenraum
   * Für Snacks und Getränke, und als Rückzugsort
-- 1 Tagungsbüro
+- 1 Tagungsbüro (!)
   * Also halt ein normaler Seminarraum, aber es ist erfahrungsgemäß immens nützlich, wenn man einen Raum hat für das Team (für einen Late Registration Desk, Storage, Abhängen in Pausen etc.)
 - 1 Foyer
   * Falls euer Gebäude einen Eingangsbereich hat, könnte man da zum Beispiel ein paar Tische für die Anmeldung aufbauen.
@@ -120,7 +130,11 @@ Falls ihr auf sozialen Medien aktiv seid, wäre ein Post dort sicher auch sehr a
 
 ## Finanzen <span class="time-badge">Oktober</span>
 
-Größenordnungsmäßig kostet eine TaCoS 10.000 € (± 5.000 €).
+Größenordnungsmäßig kostet eine TaCoS irgendetwas zwischen 4.000 und 10.000 €. 
+
+Die größten Kostenpunkte sind erfahrungsgemäß die Verpflegung der Teilnehmer. Insbesondere der Samstag kann ins Geld gehen, falls keine Mensa geöffnet hat und Essen bestellt werden muss. Falls sich das Orga-Team berufen fühlt, Unterkünfte zu organisieren (Details siehe unten), kann das ebenfalls ins Geld gehen. 
+
+Einnahmen kommen von Sponsoren (Heidelberg hat eine Liste) sowie über Teilnahmegebühren (siehe Teilnahmebeitrag). Ansonsten hatte Heidelberg eine „TaCoS light“ ohne Verpflegung oder sonstige Benefits im Gespräch, um kostengünstig weitere Teilnehmer zuzulassen, die an den Vorträgen interessiert gewesen wären. Das ist am Ende allerdings an den begrenzten Raumkapazitäten gescheitert, und wir würden dies wirklich höchstens dann empfehlen, wenn es ausreichend Räume, aber wenig Budget gibt. 
 
 ### Konto
 
@@ -136,7 +150,7 @@ Ihr braucht einen Budgetplan. Selbst, wenn ihr selbst keinen wollt, will früher
   * Mensa (Donnerstag und Freitag)
   * Caterer (Samstag, da haben Mensen ja oft zu)
   * Getränke und Snacks für die Kaffeepause
-* Unterkünfte (Zuschuss für die Teilnehmer)
+* Unterkünfte (oder Zuschuss für die Teilnehmer)
 * Werbung
   * Merchandise-Artikel (Tassen, Flaschenöffner, Taschen, Notizbücher, Sticks, ...)
   * Aufsteller, Banner, Poster
@@ -150,6 +164,10 @@ Dinge, die man vielleicht gratis bekommt, sind hingegen:
 ### Sponsoren
 
 Eine großzügige Organisation unterstützt vielleicht so mit 1.000 €. Von Firmen haben wir oft Spenden in Höhe von 500 € gesehen. Ein kleiner Sponsoringbetrag wären 100 €.
+
+Grundsätzlich ist es hilfreich, eine Referenzmail vorzubereiten, und die je nach Organisation bzw. Firma anzupassen. Ansonsten hatten Heidelberg und Bochum einen Flyer mit einer Übersicht über die TaCoS, und was wir unseren Sponsoren bieten (Erwähnung auf der Webseite + Social Media, Vortragsslot auf der Konferenz etc.) - wir sind uns allerdings nicht sicher, ob das am Ende etwas beigetragen hat. 
+
+Was am Ende am besten funktioniert, ist erstens, einfach die Sponsoren des letzten Jahrs anzuschreiben, und zweitens alle persönlichen connections zu Firmen (Werkstudentenjobs, Alumni etc. ) gnadenlos auszunutzen. 
 
 ### Rechnungen
 
@@ -202,9 +220,19 @@ Wann genau welche Keynote stattfindet, könnt ihr zusammen mit der Programmplanu
 
 ## Unterkünfte <span class="time-badge">Januar</span>
 
-Günstig zu organisieren ist Couchsurfing: Fragt Leute aus eurer Fachschaft, ob sie bereit wären, andere Studis für die Tage unterzubringen.
+Günstig zu organisieren ist Couchsurfing: Fragt Leute aus eurer Fachschaft, ob sie bereit wären, andere Studis für die Tage unterzubringen. Tendenziell werden allerdings mehr Leute einen Platz haben wollen, als Plätze angeboten werden. 
 
-Man könnte versuchen, Hotelkontigente zu bekommen, das scheint aber eher teuer und aufwändig zu sein.
+Man könnte versuchen, Hotelkontigente zu bekommen, das scheint aber eher teuer (bzw. zumindest nicht günstiger, als wenn alle Teilnehmenden individuell Unterkünfte suchen) und aufwändig zu sein.
+Grundsätzlich würde ich so etwas generell vermeiden, da dann mit etwas Pech Teilnehmer abspringen, und das Orga-Team auf den Kosten sitzen bleibt. 
+
+In der Vergangenheit wurde einmal eine Turnhalle angemietet, und die Leute haben dort mit Schlafsack und Isomatte übernachtet:
+
+> wir haben alles Mögliche angefragt... Mit den Turnhallen hatten wir es auch nicht leicht, z.B. musste wegen Brandschutz immer mindestens 1 Person wach bleiben.
+> Alles was ihr machen könnt, um der Halle Geld zu besorgen, hilft sicherlich. Wir haben ja auch dort Frühstück gebucht.
+
+In Heidelberg war dazu allerdings weder die Stadt noch der Hochsschulsport bereit. 
+
+In Bochum und Heidelberg war hier der Kompromiss, die Teilnehmer selbst Unterkünfte suchen zu lassen, und im Nachhinein einen Teil aus dem restlichen Budget zu erstatten. Idealerweise plant man sich hier schon im Vorhinein etwas Budget ein. 
 
 ## Anmeldung <span class="time-badge">Januar</span>
 
@@ -253,11 +281,15 @@ Ihr könnt die Anmeldung zeitgleich mit dem Call for Participation freischalten.
 
 Sobald jemand das Formular ausgefüllt hat, solltet ihr eine Bestätigungs-E-Mail verschicken. Erfahrungsgemäß freuen sich Leute ab dann auch über gelegentliche Aktualisierungen zum Planungsfortschritt, um zu wissen, dass die TaCoS tatsächlich so passiert und um Rückfragen zu vermeiden.
 
+Weist am besten bereits bei der Anmeldung groß darauf hin, dass diese Bestätigungsmail kommt, und möglicherweise auch im Spam-Ordner landen kann. 
+
+Ansonsten kann es passieren, dass einige Teilnehmer am Tag vor der TaCoS hektisch nachfragen, ob sie denn angemeldet sind, weil sie ja keine Infomail bekommen haben. 
+
 ## Call for Participation <span class="time-badge">Januar</span>
 
 Überlegt euch, welche Beitragsformate ihr akzeptieren wollt, z.B.:
 
-* Lightning Talk: 5-10 min, nur Vortrag, keine Fragen
+* Lightning Talk: 5-10 min, nur Vortrag, keine Fragen (erfahrungsgemäß sollte man die 10 Minuten auch radikal durchsetzen, da sonst gern 20-Minuten-Vorträge daraus werden. Vermutlich wäre es hilfreich, in den Ankündigungen nochmal zu erwähnen, dass 5-10 Minuten wirklich sehr kurz sind, man dann tendenziell < 10-15 Folien haben sollte, und im Zweifelsfall einfach einen normalen Talk machen soll)
 * Normaler Talk: 20 min Vortrag + 10 min Fragen
 * Workshops: 30 oder 60 min, zum Mitmachen
 
@@ -279,7 +311,13 @@ Beliebt sind:
 
 ## Programm <span class="time-badge">April</span>
 
-<!-- TODO -->
+Grundsätzlich wird oft frab für das Programm verwendet, da dort sowohl Vorträge eingereicht werden können, als auch direkt ein Programm daraus erstellt werden kann. 
+
+Nachteil: frab ist einfach sehr hässlich, daher hatte Heidelberg eine eigene Lösung (TaCoStage). Wir haben den Programmplan zuerst in Excel (bzw. CryptPad) erstellt, und dann auf der Webseite veröffentlicht.  
+
+Wichtig: Pausen zwischen Vorträgen einplanen (mind. 10 min), damit die Teilnehmer Räume wechseln können.
+
+Außerdem kann es vorkommen, dass unerwartete Verzögerungen auftreten, z.B. weil das Orgateam noch dringend Sushi essen muss. Für solche Fälle sollte man am besten genug zeitlichen Puffer einbauen. 
 
 ## Vorbereiten <span class="time-badge">1 Tag vorher</span>
 
@@ -290,7 +328,8 @@ Beliebt sind:
 
 ### Getränke bestellen
 
-Zum Beispiel bei Flaschenpost. 2026 hat Heidelberg mit der folgenden Bestelliste gute Erfahrungen gemacht:
+Zum Beispiel bei Flaschenpost. 2026 hat Heidelberg für 100 Teilnehmer mit der folgenden Bestelliste gute Erfahrungen gemacht:
+(Anmerkung: Bei der Abendveranstaltung am ersten Tag hatte Heidelberg einen Raum inklusive Getränke angemietet, daher wäre das sonst vermutlich mehr gewesen. Nachbestellen per Flaschenpost ist allerdings unkompliziert.)
 
 * 2 Kästen, je 24× 0,33L (Glas) Rothaus Pils Tannenzäpfle
 * 2 Kästen, je 20× 0,5L (Glas) Paulaner Spezi
@@ -311,10 +350,24 @@ Zum Beispiel bei Flaschenpost. 2026 hat Heidelberg mit der folgenden Bestelliste
 * 4× 0,5L (Dose) Monster Energy Mango Loco
 * 4× 0,25L (Dose) Red Bull Energy Drink Sea Blue Edition
 * 1× 0,75L (Glas) Fassreiter Riesling feinherb halbtrocken
+* 1× Schwarzwälder Schinken
 
 Kosten (inklusive Pfand) knapp 600 €.
+Ein Rollwagen oder ähnliches ist sehr hilfreich, um die Getränke zu transportieren, und sollte im Idealfall am Tag vorher bereitstehen. 
+
+### Snacks
+
+Kekse, Mini-Croissants und ähnliches kann man gut zum Kaffee (!) reichen, und Chips sind für das Abendprogramm zu empfehlen. 
+Zur groben Orientierung: Heidelberg brauchte für 100 Teilnehmer ca. 2-3 kg Kaffeepulver, und 300 € an Snacks. 
 
 ## Durchführen <span class="time-badge">Währenddessen</span>
+
+### Opening
+
+Üblich ist zu Beginn des Tages eine kurze Präsentation, was so für den Tag im Programm steht und für die Konferenz gerade wichtig ist (z.B. Hinweise zur Mensa, Programmänderungen oder ähnliches)
+Diese kann man zur Not auch noch in der Früh vor dem Opening vorbereiten, oder einfach improvisieren. 
+
+Ausnahme ist der erste Tag - an diesem sollte man am Besten tatsächlich einen Überblick über alles Wichtige für die Konferenz vorbereitet haben, z.B. Kommunikationsplattformen (WhatsApp-Gruppe o.ä.), Infos zur Mensa und ähnliches. 
 
 ### Folien einsammeln 
 
@@ -324,3 +377,7 @@ Sobald alle Folien da sind, freuen sich die Teilnehmenden sicher noch mal über 
 
 ### Abschließen
 
+Eine Auswahl der lustigsten Fotos von der Konferenz, Statistiken der Teilnehmer (welche Städte, wie viele no-shows pro Uni etc.) kommen gut. 
+Ansonsten ist eine Umfrage, was das besten an dieser TaCoS war, ganz lustig. 
+
+Wichtig: Nachfolger finden für die nächste TaCoS. 
