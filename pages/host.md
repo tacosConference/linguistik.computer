@@ -326,6 +326,14 @@ Außerdem kann es vorkommen, dass unerwartete Verzögerungen auftreten, z.B. wei
 - Einkaufen (Snacks, Getränke, ...)
 - Räume mal auf Sicht kontrollieren (die Schlüssel habt ihr hoffentlich schon vorher abgeholt)
 
+### Registration Desk
+
+Stellt einen oder zwei Tische am Besten in das Foyer eures Gebäudes. Falls das nicht geht, baut prominent Schilder auf, damit die Leute wissen, dass sie zumindest schon mal im richtigen Gebäude sind.
+
+Platziert an diesen Tischen ca. vier Personen, ein großes „TaCoS Registration“-Schild und Schilder für die verschiedenen Nachnamensbereiche. Vierfach zu parallelisieren, macht auf jeden Fall Sinn.
+
+Gebt den Leuten eine Liste aller registrierten Teilnehmer, zum Abhaken. Wenn ihr cool seid, macht ihr das digital. Ansonsten halt ausgedruckt. Heidelberg war semicool. Wichtig: Haltet euch eine zentrale Version der Liste (das spricht für digital), damit ihr nachher noch wisst, wer da war (z.B. für Teilnahmebescheinigungen).
+
 ### Getränke bestellen
 
 Zum Beispiel bei Flaschenpost. 2026 hat Heidelberg für 100 Teilnehmer mit der folgenden Bestelliste gute Erfahrungen gemacht:
@@ -367,7 +375,11 @@ Zur groben Orientierung: Heidelberg brauchte für 100 Teilnehmer ca. 2-3 kg Kaff
 Üblich ist zu Beginn des Tages eine kurze Präsentation, was so für den Tag im Programm steht und für die Konferenz gerade wichtig ist (z.B. Hinweise zur Mensa, Programmänderungen oder ähnliches)
 Diese kann man zur Not auch noch in der Früh vor dem Opening vorbereiten, oder einfach improvisieren. 
 
-Ausnahme ist der erste Tag - an diesem sollte man am Besten tatsächlich einen Überblick über alles Wichtige für die Konferenz vorbereitet haben, z.B. Kommunikationsplattformen (WhatsApp-Gruppe o.ä.), Infos zur Mensa und ähnliches. 
+Ausnahme ist der erste Tag - an diesem sollte man am Besten tatsächlich einen Überblick über alles Wichtige für die Konferenz vorbereitet haben, z.B. Kommunikationsplattformen (WhatsApp-Gruppe o.ä.), Infos zur Mensa und ähnliches.
+
+### Late Registration Desk
+
+Es werden Leute zu spät kommen oder erst am zweiten Tag, daher braucht ihr einen Late Registration Desk. Sollte eure Konferenz in der Nähe des Foyers sein, könnt ihr natürlich den Desk einfach so lassen. Ansonsten könntet ihr z.B. im Tagungsbüro (sofern das in der Nähe der Tagungsräume ist) einen Late Registration Desk einrichten, und die Leute da hin schicken.
 
 ### Folien einsammeln 
 
