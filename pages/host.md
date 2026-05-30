@@ -303,11 +303,16 @@ Zeitnah nach Ende der Einreichungsdeadline solltet ihr durch die Einreichungen d
 
 Beliebt sind:
 
-* Tassen (TaCoS 2026: 125 Tassen, 550 €, geht billiger, waren aber auch coole Tasse)
+* Tassen (TaCoS 2026: [125 Tassen, schwarz mit farbiger Gravur, 550 €](https://www.wir-machen-druck.de/schwarze-tasse-mit-farbiger-zwischenbeschichtung-fuer-lasergravur-350-ml.html))
 * Sticker (TaCoS 2026: 400 Stück, rund, Outdoor, 55 € & 1500 Stück, quadratisch, Outdoor, 50 €)
   * Outdoor-Sticker sind robuster und reiben sich nicht so ab (was nützlich ist, wenn sie sich jemand auf eine Handy-Hülle klebt, die oft aus Hosentaschen gezogen und wieder hineingesteckt wird).
   * Rechteckige Sticker sind billiger als runde.
-* Taschen
+* Taschen (TaCoS 2026: [Baumwolltasche, schwarz, beidseitig einfarbig bedruckt](https://www.wir-machen-druck.de/baumwolltaschen-mit-langem-henkel-siebdruck-guenstig-drucken,category,30936.html))
+
+Vielleicht wollt ihr auch noch Merchandise nur für das Orga-Team machen, z.B.:
+
+* T-Shirts
+* Bucket Hats
 
 ## Programm <span class="time-badge">April</span>
 
