@@ -1,10 +1,10 @@
 menu:
 - {name: 'Tagung', folder: 'pages', file: 'about.html'}
 - {name: 'Archiv', folder: 'pages', file: 'archive.html'}
-#- {name: 'Teilnehmen', folder: 'pages', file: 'partake.html'}
 - {name: 'Ausrichten', folder: 'pages', file: 'host.html'}
 - {name: 'Schwestern', folder: 'pages', file: 'sisters.html'}
 - {name: 'Kontakt', folder: 'pages', file: 'contact.html'}
+- {name: 'Newsletter', folder: 'pages', file: 'newsletter.html'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
