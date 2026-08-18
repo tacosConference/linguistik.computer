@@ -130,36 +130,45 @@ Falls ihr auf sozialen Medien aktiv seid, wäre ein Post dort sicher auch sehr a
 
 ## Finanzen <span class="time-badge">Oktober</span>
 
-Größenordnungsmäßig kostet eine TaCoS irgendetwas zwischen 4.000 und 10.000 €. 
+Größenordnungsmäßig kostet eine TaCoS irgendetwas zwischen 4.000 und 10.000 €. Stand 2026 könntet ihr den folgenden Kostenplan als Anhaltspunkt nehmen:
 
-Die größten Kostenpunkte sind erfahrungsgemäß die Verpflegung der Teilnehmer. Insbesondere der Samstag kann ins Geld gehen, falls keine Mensa geöffnet hat und Essen bestellt werden muss. Falls sich das Orga-Team berufen fühlt, Unterkünfte zu organisieren (Details siehe unten), kann das ebenfalls ins Geld gehen. 
+| Beschreibung |      Betrag | Bemerkung                                           |
+| ------------ | ----------: | --------------------------------------------------- |
+| Mensa        |     1.900 € | 3 Tage, je 80 Personen                              |
+| Getränke     |       600 € |                                                     |
+| Snacks A     |       300 € | Für Abendevents, zum Kaffee, ...                    |
+| Snacks T     |       160 € | Für das Team, z.B. Abendessen                       |
+| Merch A      |     1.100 € | Mehr Details weiter unten                           |
+| Merch T      |       460 € | T-Shirts o.Ä. für das Team                          |
+| Geschenke A  |       160 € | Gratisgetränk für Teilnehmer am Sonntagsbrunch      |
+| Geschenke S  |        60 € | Für Keynote-Speaker, Panelisten                     |
+| Büromaterial |        80 € | Lanyards, Papier für Mensa-Coupons, Druckkosten ... |
+| **Summe**    | **4.820 €** |                                                     |
 
-Einnahmen kommen von Sponsoren (Heidelberg hat eine Liste) sowie über Teilnahmegebühren (siehe Teilnahmebeitrag). Ansonsten hatte Heidelberg eine „TaCoS light“ ohne Verpflegung oder sonstige Benefits im Gespräch, um kostengünstig weitere Teilnehmer zuzulassen, die an den Vorträgen interessiert gewesen wären. Das ist am Ende allerdings an den begrenzten Raumkapazitäten gescheitert, und wir würden dies wirklich höchstens dann empfehlen, wenn es ausreichend Räume, aber wenig Budget gibt. 
+Auf diese Kosten kann dann schnell noch was dazukommen:
+
+| Beschreibung |                Betrag | Bemerkung                                                                           |
+| ------------ | --------------------: | ----------------------------------------------------------------------------------- |
+| Ferienwohung |                 900 € | Falls die Couchsurfing-Plätze nicht ausreichen, um alle Vortragenden unterzubringen |
+| Raummiete    |                 250 € | Für einen Raum für einen Abend außerhalb der Uni                                    |
+| Unterkünfte  |       2.000 €–3.000 € | Um den Teilnehmenden einen Teil der (oder alle) Unterkunftskosten zurückzuerstatten |
+| Mensa        |                 ± ? € | Je nachdem, welchen Tarif eure Mensa anbietet                                       |
+| Caterer      |                   ? € | Falls am Samstag keine Mensa geöffnet hat, und Essen bestellt werden muss           |
+| **Summe**    | **vielleicht 5.000 €** | Sehr grob geschätzt, wie viel „?“ wert ist                                          |
+
+Einnahmen kommen von Sponsoren (Heidelberg hat eine Liste) sowie über Teilnahmegebühren (siehe Teilnahmebeitrag). Ansonsten hatte Heidelberg eine „TaCoS light“ ohne Verpflegung oder sonstige Benefits im Gespräch, um kostengünstig weitere Teilnehmer zuzulassen, die an den Vorträgen interessiert gewesen wären. Das ist am Ende allerdings an den begrenzten Raumkapazitäten gescheitert, und wir würden dies wirklich höchstens dann empfehlen, wenn es ausreichend Räume, aber wenig Budget gibt.
+
+### Budgetplan
+
+Ihr braucht einen Budgetplan. Selbst, wenn ihr selbst keinen wollt, will früher oder später ein Sponsor einen sehen. Die obigen Tabellen können euch dabei helfen, einen anzulegen.
+
+Achtet darauf, währenddessen eure Ausgaben und Einnahmen immer aufzuschreiben, am Ende hilft das bei der Abrechnung und Rückerstattung.
 
 ### Konto
 
 Um das Sponsorengeld irgendwo aufzubewahren, braucht ihr ein Konto. Wir können euch hier keine rechtlich geprüften Tipps geben, aber es soll schon TaCoS-Tagungen gegeben haben, die sich dafür einfach ein privates Girokonto bei einer Bank eröffnet haben (und die TaCoS dementsprechend einfach „privat“ organisiert haben). Am besten, ihr fragt da mal bei den Vorjahresorganisatoren nach.
 
 Die Junge Sprachwissenschaft e. V. unterstützt aber, wenn ihr sie lieb fragt, vielleicht auch mit ihrem Konto.
-
-### Budgetplan
-
-Ihr braucht einen Budgetplan. Selbst, wenn ihr selbst keinen wollt, will früher oder später ein Sponsor einen sehen. Dinge, die man normalerweise bezahlen muss, sind:
-
-* Essen
-  * Mensa (Donnerstag und Freitag)
-  * Caterer (Samstag, da haben Mensen ja oft zu)
-  * Getränke und Snacks für die Kaffeepause
-* Unterkünfte (oder Zuschuss für die Teilnehmer)
-* Werbung
-  * Merchandise-Artikel (Tassen, Flaschenöffner, Taschen, Notizbücher, Sticks, ...)
-  * Aufsteller, Banner, Poster
-* Aufmerksamkeitsgeschenke für Keynote-Speaker (Schokolade, Blumen, ...)
-
-Dinge, die man vielleicht gratis bekommt, sind hingegen:
-
-* Tagungsort
-  * Räume an der Uni kann man als studentisches Projekt zumeist einfach reservieren.
 
 ### Sponsoren
 
@@ -307,7 +316,7 @@ Beliebt sind:
 * Sticker (TaCoS 2026: 400 Stück, rund, Outdoor, 55 € & 1500 Stück, quadratisch, Outdoor, 50 €)
   * Outdoor-Sticker sind robuster und reiben sich nicht so ab (was nützlich ist, wenn sie sich jemand auf eine Handy-Hülle klebt, die oft aus Hosentaschen gezogen und wieder hineingesteckt wird).
   * Rechteckige Sticker sind billiger als runde.
-* Taschen (TaCoS 2026: [Baumwolltasche, schwarz, beidseitig einfarbig bedruckt](https://www.wir-machen-druck.de/baumwolltaschen-mit-langem-henkel-siebdruck-guenstig-drucken,category,30936.html))
+* Taschen (TaCoS 2026: [Baumwolltasche, schwarz, beidseitig einfarbig bedruckt, 420 €](https://www.wir-machen-druck.de/baumwolltaschen-mit-langem-henkel-siebdruck-guenstig-drucken,category,30936.html))
 
 Vielleicht wollt ihr auch noch Merchandise nur für das Orga-Team machen, z.B.:
 
