@@ -207,7 +207,7 @@ Wir haben für euch auch eine Beispielrechnung vorbereitet. Diese ist verschlüs
 
 * [Beispielrechnung (PDF, verschlüsselt)](/assets/pdf/encrypted-Rechnung_Muster.pdf)
 * [Mail an tacos@cl.uni-heidelberg.de für Passwort](mailto:tacos@cl.uni-heidelberg.de?subject=Passwort)
-* [Tool, um das PDF zu entschlüsseln](pdf.fachschaft.cl.uni-heidelberg.de)
+* [Tool, um das PDF zu entschlüsseln](https://pdf.fachschaft.cl.uni-heidelberg.de)
 
 Wenn ihr eine Rechnung braucht, die von einer echten juristischen Person ausgestellt wird, fragt mal lieb die Junge Sprachwissenschaft e.V., die kann euch eventuell helfen.
 
