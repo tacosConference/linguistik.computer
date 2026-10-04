@@ -247,7 +247,7 @@ In Bochum und Heidelberg war hier der Kompromiss, die Teilnehmer selbst Unterkü
 
 Für die Anmeldung bietet sich ein Online-Formular an. Die Junge Sprachwissenschaft betreibt das Anmeldetool [FISH](https://anmeldung.stuts.de/), ihr könnt aber auch ein Formular auf eurer eigenen Website implementieren (sofern ihr ein Backend dafür betreibt).
 
-* [Anmeldung zur 35. TaCoS 2026 (eigene Website)](https://linguistik.computer/2026/participate/)
+* [Anmeldung zur 35. TaCoS 2026 (eigene Website)](https://linguistik.computer/2026/attend/)
 * [Anmeldung zur 33. TaCoS 2024 (via FISH)](https://anmeldung.stuts.de/tacos2024)
 
 Falls ihr euch das Formular selbst zusammenklicken wollt, bietet sich [CryptPad Forms](https://cryptpad.fr/form/) an. Das ist so ähnlich wie die Formulartools der Technik-Giganten, aber etwas respektvoller gegenüber der Privatsphäre der Teilnehmer.
